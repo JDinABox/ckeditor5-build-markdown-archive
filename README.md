@@ -1,5 +1,7 @@
 CKEditor 5 markdown editor build
 ========================================
+## This Repo is archived see the updated version [Here](https://github.com/JDinABox/ckeditor5-build-markdown)
+
 
 [![npm version](https://badge.fury.io/js/%40jdinabox%2Fckeditor5-build-markdown.svg)](https://badge.fury.io/js/%40jdinabox%2Fckeditor5-build-markdown)
 [![npm downloads](https://img.shields.io/npm/dt/@jdinabox/ckeditor5-build-markdown)](https://www.npmjs.com/package/@jdinabox/ckeditor5-build-markdown)
